@@ -1,0 +1,25 @@
+{
+  "name": "reprograma-aula7-servidores",
+  "version": "1.0.0",
+  "description": "material da aula 7 do reprograma",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luana-Leticia/reprograma-aula7-servidores.git"
+  },
+  "author": "Luana Letícia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luana-Leticia/reprograma-aula7-servidores/issues"
+  },
+  "homepage": "https://github.com/Luana-Leticia/reprograma-aula7-servidores#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
